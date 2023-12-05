@@ -1,8 +1,8 @@
-# [FIVE]
+# FIVE
 
 ## Project Overview
 
-Welcome to [FIVE]! This web application is designed to provide a user-friendly platform with various features to meet the needs of both administrators and users.
+Welcome to FIVE! This web application is designed to provide a user-friendly platform with various features to meet the needs of both administrators and users.
 
 ## Table of Contents
 
@@ -39,7 +39,7 @@ The user login page is the gateway for registered users to access their accounts
 
 ## Getting Started
 
-To get started with [Your Project Name], follow these steps:
+To get started with FIVE, follow these steps:
 
 1. Clone the repository.
 2. Set up your database and configure connection details.
