@@ -14,17 +14,25 @@ Welcome to FIVE! This web application is designed to provide a user-friendly pla
 
 ## Technologies Used
 
-- **PHP:**
+### PHP
   <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP Logo" width="50">
 
-- **HTML:**
+The PHP scripting language powers dynamic content generation on the server side.
+
+### HTML
   <img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" alt="HTML Logo" width="50">
 
-- **Bootstrap:**
+HTML is the standard markup language for creating web pages and web applications.
+
+### Bootstrap
   <img src="https://getbootstrap.com/docs/5.0/assets/img/bootstrap-icons.png" alt="Bootstrap Logo" width="50">
 
-- **CSS:**
+Bootstrap is a popular front-end framework for designing responsive and visually appealing websites.
+
+### CSS
   <img src="https://cdn.iconscout.com/icon/free/png-512/css-131-722685.png" alt="CSS Logo" width="50">
+
+CSS (Cascading Style Sheets) is used for styling web pages, enhancing their visual presentation.
 
 ## 1. User Registration
 
