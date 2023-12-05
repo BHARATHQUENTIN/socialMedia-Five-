@@ -15,16 +15,16 @@ Welcome to FIVE! This web application is designed to provide a user-friendly pla
 ## Technologies Used
 
 - **PHP:**
-  ![PHP Logo](https://www.php.net/images/logos/new-php-logo.svg)
-  
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP Logo" width="50">
+
 - **HTML:**
-  ![HTML Logo](https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png)
-  
+  <img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" alt="HTML Logo" width="50">
+
 - **Bootstrap:**
-  ![Bootstrap Logo](https://getbootstrap.com/docs/5.0/assets/img/bootstrap-icons.png)
-  
+  <img src="https://getbootstrap.com/docs/5.0/assets/img/bootstrap-icons.png" alt="Bootstrap Logo" width="50">
+
 - **CSS:**
-  ![CSS Logo](https://cdn.iconscout.com/icon/free/png-512/css-131-722685.png)
+  <img src="https://cdn.iconscout.com/icon/free/png-512/css-131-722685.png" alt="CSS Logo" width="50">
 
 ## 1. User Registration
 
