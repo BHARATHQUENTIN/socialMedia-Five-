@@ -34,6 +34,11 @@ Bootstrap, the style guru, adds elegance and responsiveness to your user interfa
 
 CSS brings the flair, making your web pages visually stunning.
 
+### MySQL
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="50">
+  
+MySQL is a popular relational database management system used for storing and managing data.
+
 ## 1. User Registration
 
 Welcome new users with a smooth onboarding process! The signup page is the gateway to joining your vibrant community.
