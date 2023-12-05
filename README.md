@@ -12,6 +12,20 @@ Welcome to FIVE! This web application is designed to provide a user-friendly pla
 4. [User Profile](#4-user-profile)
 5. [User Edit](#5-user-edit)
 
+## Technologies Used
+
+- **PHP:**
+  ![PHP Logo](https://www.php.net/images/logos/new-php-logo.svg)
+  
+- **HTML:**
+  ![HTML Logo](https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png)
+  
+- **Bootstrap:**
+  ![Bootstrap Logo](https://getbootstrap.com/docs/5.0/assets/img/bootstrap-icons.png)
+  
+- **CSS:**
+  ![CSS Logo](https://cdn.iconscout.com/icon/free/png-512/css-131-722685.png)
+
 ## 1. User Registration
 
 The signup page is where users can register and create an account. It's the starting point for users to join the platform, ensuring a smooth onboarding process.
@@ -57,6 +71,6 @@ Feel free to reach out for any assistance or inquiries.
 
 - Sabhari
 - Sriram
-- Albin geroge 
+- Sabhari
 
 Happy coding!
